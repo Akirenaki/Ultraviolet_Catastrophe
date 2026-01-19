@@ -1,3 +1,5 @@
+'''A code to visualise the Ultraviolet Catastrophe'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
